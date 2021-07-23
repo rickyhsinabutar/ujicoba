@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ricky
 test
-=======
-ricky-1
->>>>>>> 1750f069f13f015790729edd887c07ad44606da6
-=======
->>>>>>> parent of 4ae41d6 (ricky baru)
